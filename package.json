@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://alyssaalonso.github.io/adopt-me/",
-  "main": "index.js",
+  "main": "src/App.js",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --out-dir docs --public-url ./adopt-me",
